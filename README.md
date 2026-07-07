@@ -1,5 +1,5 @@
-COVID-19 Data Exploration Project
-
+**COVID-19 Data Exploration Project
+**
 # About the Project
 
 This was one of my first bigger SQL projects. I wanted to work with real-world data and practice answering questions using SQL. I used a COVID-19 dataset from Our "World in Data" to explore infection rates, death rates, and how vaccination programmes rolled out across different countries.
